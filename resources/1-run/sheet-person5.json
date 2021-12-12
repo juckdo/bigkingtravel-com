@@ -1,0 +1,62 @@
+{"frames": {
+
+"배경 인물-000616.png":
+{
+	"frame": {"x":1376,"y":796,"w":451,"h":794},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":0,"w":451,"h":794},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"배경 인물-000621.png":
+{
+	"frame": {"x":1376,"y":1,"w":454,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":0,"w":454,"h":793},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"인물 중앙-000003.png":
+{
+	"frame": {"x":689,"y":1,"w":685,"h":1303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":0,"w":685,"h":1303},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"인물 중앙-000004.png":
+{
+	"frame": {"x":1,"y":1,"w":686,"h":1303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":0,"w":686,"h":1303},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"인물 중앙-000017.png":
+{
+	"frame": {"x":1,"y":1306,"w":720,"h":1278},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1278},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"배경 인물": ["배경 인물-000616.png","배경 인물-000621.png"],
+	"인물 중앙": ["인물 중앙-000003.png","인물 중앙-000004.png","인물 중앙-000017.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheet-person5.png",
+	"format": "RGBA8888",
+	"size": {"w":1831,"h":2027},
+	"scale": "1",
+	"related_multi_packs": [ "sheet-person0.json", "sheet-person1.json", "sheet-person2.json", "sheet-person3.json", "sheet-person4.json", "sheet-person6.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:045cb426be6b6e24aada8bb21c7ca871:e594c821ba687f9aeae6218d2d84d71d:b726ca078bf494e6870973b96d9c3104$"
+}
+}

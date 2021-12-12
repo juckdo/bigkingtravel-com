@@ -1,0 +1,100 @@
+{"frames": {
+
+"title-00.png":
+{
+	"frame": {"x":1445,"y":425,"w":605,"h":87},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":570,"w":605,"h":87},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"title-01.png":
+{
+	"frame": {"x":1534,"y":425,"w":605,"h":87},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":570,"w":605,"h":87},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"배경-000100.jpg":
+{
+	"frame": {"x":1,"y":1,"w":720,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1388},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"배경-000101.jpg":
+{
+	"frame": {"x":723,"y":1,"w":720,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1388},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"버튼 A-1.png":
+{
+	"frame": {"x":1445,"y":1,"w":104,"h":117},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":228,"y":978,"w":104,"h":117},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"버튼 A-2.png":
+{
+	"frame": {"x":1445,"y":213,"w":104,"h":111},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":228,"y":984,"w":104,"h":111},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"버튼 B-1.png":
+{
+	"frame": {"x":1445,"y":107,"w":104,"h":117},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":393,"y":978,"w":104,"h":117},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"버튼 B-2.png":
+{
+	"frame": {"x":1445,"y":319,"w":104,"h":111},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":393,"y":984,"w":104,"h":111},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"버튼C.png":
+{
+	"frame": {"x":1564,"y":1,"w":14,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":14},
+	"sourceSize": {"w":14,"h":14},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"title": ["title-00.png","title-01.png"],
+	"배경": ["배경-000100.jpg","배경-000101.jpg"],
+	"버튼 A": ["버튼 A-1.png","버튼 A-2.png"],
+	"버튼 B": ["버튼 B-1.png","버튼 B-2.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheet0.png",
+	"format": "RGBA8888",
+	"size": {"w":1622,"h":1390},
+	"scale": "1",
+	"related_multi_packs": [ "sheet1.json", "sheet2.json", "sheet3.json", "sheet4.json", "sheet5.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:f47b4709b332be944584eb3f745061c6:38225cfd0b4a2fa79105ac982ebfc668:3ff8225e53074b12491a07071141ccdb$"
+}
+}

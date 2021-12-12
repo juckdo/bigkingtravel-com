@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "dxunigothicstd";
+    src: url("/resources/chatbot/DXUnigothicStd-30.woff") format('woff');
+}
+
+@font-face {
+    font-family: "nanumgothic";
+    src: url("/resources/360video/nanum.woff") format("woff");
+}

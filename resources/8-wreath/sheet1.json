@@ -1,0 +1,34 @@
+{"frames": {
+
+"배경 03.jpg":
+{
+	"frame": {"x":1,"y":1,"w":720,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1388},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"배경 04.jpg":
+{
+	"frame": {"x":723,"y":1,"w":720,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1388},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"배경 ": ["배경 03.jpg","배경 04.jpg"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheet1.png",
+	"format": "RGBA8888",
+	"size": {"w":1444,"h":1390},
+	"scale": "1",
+	"related_multi_packs": [ "sheet0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a12e32a94154f5e1ec87e9f75c60e143:46fd57d476dff81bfeacc6bf11f2144c:cd1e3ca92ed9de0025481a402a386246$"
+}
+}

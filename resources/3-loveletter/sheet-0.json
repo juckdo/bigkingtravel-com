@@ -1,0 +1,90 @@
+{"frames": {
+
+"background-000162.jpg":
+{
+	"frame": {"x":1,"y":1,"w":730,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":730,"h":1388},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"background-000163.jpg":
+{
+	"frame": {"x":733,"y":1,"w":730,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":730,"h":1388},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"button-000080.png":
+{
+	"frame": {"x":1465,"y":1,"w":236,"h":117},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":978,"w":236,"h":117},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"button-000082.png":
+{
+	"frame": {"x":1465,"y":239,"w":236,"h":111},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":984,"w":236,"h":111},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"text message.png":
+{
+	"frame": {"x":1,"y":1391,"w":431,"h":1354},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":34,"w":431,"h":1354},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"title-000149.png":
+{
+	"frame": {"x":1,"y":1824,"w":607,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":570,"w":607,"h":88},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"title-000150.png":
+{
+	"frame": {"x":610,"y":1824,"w":607,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":570,"w":607,"h":88},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"할아버지 손.png":
+{
+	"frame": {"x":1357,"y":1391,"w":252,"h":515},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":608,"w":252,"h":515},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"background": ["background-000162.jpg","background-000163.jpg"],
+	"button": ["button-000080.png","button-000082.png"],
+	"title": ["title-000149.png","title-000150.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheet-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1610,"h":1913},
+	"scale": "1",
+	"related_multi_packs": [ "sheet-1.json", "sheet-2.json", "sheet-3.json", "sheet-4.json", "sheet-5.json", "sheet-6.json", "sheet-7.json", "sheet-8.json", "sheet-9.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:f66cccc6d363f8649c1864eec3b3884a:14f2e968fef0f7a33668ce7377cee5ad:c4528c2d4bde5103497a2152b8a36e3a$"
+}
+}

@@ -1,0 +1,53 @@
+{"frames": {
+
+"background-000820.jpg":
+{
+	"frame": {"x":1,"y":1,"w":730,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":730,"h":1388},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"background-000821.jpg":
+{
+	"frame": {"x":733,"y":1,"w":730,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":730,"h":1388},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"grandpa-heart-000857.png":
+{
+	"frame": {"x":1465,"y":1,"w":321,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":430,"w":321,"h":422},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"grandpa-heart-000865.png":
+{
+	"frame": {"x":1465,"y":425,"w":320,"h":420},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":203,"y":431,"w":320,"h":420},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"background": ["background-000820.jpg","background-000821.jpg"],
+	"grandpa-heart": ["grandpa-heart-000857.png","grandpa-heart-000865.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheet-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1787,"h":1390},
+	"scale": "1",
+	"related_multi_packs": [ "sheet-0.json", "sheet-2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:77a9e27e1eb84e01174237b76a7720b4:34c9943d280db3986092573fefb7e939:503b90232a2986e70c06f4de24eeb113$"
+}
+}

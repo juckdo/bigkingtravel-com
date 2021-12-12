@@ -1,0 +1,81 @@
+{"frames": {
+
+"button-000080.png":
+{
+	"frame": {"x":1445,"y":368,"w":236,"h":117},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":978,"w":236,"h":117},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"button-000082.png":
+{
+	"frame": {"x":1445,"y":606,"w":236,"h":111},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":984,"w":236,"h":111},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"title-000285.png":
+{
+	"frame": {"x":1445,"y":844,"w":597,"h":86},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":384,"w":597,"h":86},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"title-000286.png":
+{
+	"frame": {"x":1533,"y":844,"w":597,"h":86},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":384,"w":597,"h":86},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"국화_optimized.png":
+{
+	"frame": {"x":1445,"y":1,"w":365,"h":191},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":173,"y":726,"w":365,"h":191},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"배경 01.jpg":
+{
+	"frame": {"x":1,"y":1,"w":720,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1388},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"배경 02.jpg":
+{
+	"frame": {"x":723,"y":1,"w":720,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1388},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"button": ["button-000080.png","button-000082.png"],
+	"title": ["title-000285.png","title-000286.png"],
+	"배경 ": ["배경 01.jpg","배경 02.jpg"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheet0.png",
+	"format": "RGBA8888",
+	"size": {"w":1637,"h":1442},
+	"scale": "1",
+	"related_multi_packs": [ "sheet1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a12e32a94154f5e1ec87e9f75c60e143:46fd57d476dff81bfeacc6bf11f2144c:cd1e3ca92ed9de0025481a402a386246$"
+}
+}

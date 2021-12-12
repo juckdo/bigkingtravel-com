@@ -1,0 +1,181 @@
+{"frames": {
+
+"background-000818.jpg":
+{
+	"frame": {"x":1,"y":1,"w":730,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":730,"h":1388},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"background-000819.jpg":
+{
+	"frame": {"x":733,"y":1,"w":730,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":730,"h":1388},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"button-000080.png":
+{
+	"frame": {"x":181,"y":1827,"w":236,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":978,"w":236,"h":117},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"button-000082.png":
+{
+	"frame": {"x":419,"y":1827,"w":236,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":984,"w":236,"h":111},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"grandpa-heart-000853.png":
+{
+	"frame": {"x":1166,"y":1628,"w":323,"h":417},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":202,"y":429,"w":323,"h":417},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"grandpa-heart-000854.png":
+{
+	"frame": {"x":1166,"y":1628,"w":323,"h":417},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":202,"y":429,"w":323,"h":417},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"grandpa-heart-000855.png":
+{
+	"frame": {"x":1465,"y":1304,"w":322,"h":422},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":429,"w":322,"h":422},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"grandpa-heart-000856.png":
+{
+	"frame": {"x":1465,"y":329,"w":323,"h":422},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":200,"y":430,"w":323,"h":422},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"grandpa-heart-000858.png":
+{
+	"frame": {"x":1465,"y":1,"w":326,"h":431},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":431,"w":326,"h":431},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"grandpa-heart-000859.png":
+{
+	"frame": {"x":181,"y":1391,"w":328,"h":434},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":193,"y":431,"w":328,"h":434},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"grandpa-heart-000860.png":
+{
+	"frame": {"x":511,"y":1391,"w":328,"h":434},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":192,"y":431,"w":328,"h":434},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"grandpa-heart-000861.png":
+{
+	"frame": {"x":1465,"y":654,"w":323,"h":422},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":431,"w":323,"h":422},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"grandpa-heart-000862.png":
+{
+	"frame": {"x":1491,"y":1628,"w":322,"h":415},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":202,"y":429,"w":322,"h":415},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"grandpa-heart-000863.png":
+{
+	"frame": {"x":841,"y":1628,"w":323,"h":418},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":202,"y":429,"w":323,"h":418},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"grandpa-heart-000864.png":
+{
+	"frame": {"x":841,"y":1628,"w":323,"h":418},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":202,"y":429,"w":323,"h":418},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"grandpa-heart-000866.png":
+{
+	"frame": {"x":1465,"y":979,"w":323,"h":422},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":200,"y":430,"w":323,"h":422},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"title-000056.png":
+{
+	"frame": {"x":1,"y":1391,"w":607,"h":88},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":590,"w":607,"h":88},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"title-000057.png":
+{
+	"frame": {"x":91,"y":1391,"w":607,"h":88},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":590,"w":607,"h":88},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"background": ["background-000818.jpg","background-000819.jpg"],
+	"button": ["button-000080.png","button-000082.png"],
+	"grandpa-heart": ["grandpa-heart-000853.png","grandpa-heart-000854.png","grandpa-heart-000855.png","grandpa-heart-000856.png","grandpa-heart-000858.png","grandpa-heart-000859.png","grandpa-heart-000860.png","grandpa-heart-000861.png","grandpa-heart-000862.png","grandpa-heart-000863.png","grandpa-heart-000864.png","grandpa-heart-000866.png"],
+	"title": ["title-000056.png","title-000057.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheet-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1897,"h":2047},
+	"scale": "1",
+	"related_multi_packs": [ "sheet-1.json", "sheet-2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:77a9e27e1eb84e01174237b76a7720b4:34c9943d280db3986092573fefb7e939:503b90232a2986e70c06f4de24eeb113$"
+}
+}

@@ -1,0 +1,34 @@
+{"frames": {
+
+"background-000180.jpg":
+{
+	"frame": {"x":1,"y":1,"w":730,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":730,"h":1388},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"background-000181.jpg":
+{
+	"frame": {"x":733,"y":1,"w":730,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":730,"h":1388},
+	"sourceSize": {"w":730,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"background": ["background-000180.jpg","background-000181.jpg"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheet-9.png",
+	"format": "RGBA8888",
+	"size": {"w":1464,"h":1390},
+	"scale": "1",
+	"related_multi_packs": [ "sheet-0.json", "sheet-1.json", "sheet-2.json", "sheet-3.json", "sheet-4.json", "sheet-5.json", "sheet-6.json", "sheet-7.json", "sheet-8.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:f66cccc6d363f8649c1864eec3b3884a:14f2e968fef0f7a33668ce7377cee5ad:c4528c2d4bde5103497a2152b8a36e3a$"
+}
+}

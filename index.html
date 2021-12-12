@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
+    <meta property="og:title" content="대왕트래블 2020" />
+    <meta property="og:description" content="모바일 칭쳰 투어 맛보기" />
+    <meta
+      property="og:image"
+      content="./bigkingtravel-og-ship.jpg"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/normalize.css@8.0.1/normalize.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"
+    />
+
+    <title>대왕트래블 2020</title>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/2.4.3/custom-elements-es5-adapter.js"
+      charset="utf-8"
+    ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/2.4.3/webcomponents-bundle.js"></script>
+    <!--script src="https://code.createjs.com/1.0.0/preloadjs.min.js"></script-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PreloadJS/1.0.1/preloadjs.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.0/howler.min.js"></script>
+    <script src="https://www.unpkg.com/shake.js@1.2.2/shake.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/5.1.5/pixi.min.js"></script>
+    <script src="https://unpkg.com/pixi-sound@3.0.4/dist/pixi-sound.js"></script>
+
+    <link rel="stylesheet" href="./from-start/font.css" />
+    <link rel="stylesheet" href="./from-start/index.css" />
+    <link rel="stylesheet" href="./from-start/spinner.css" />
+
+    <link
+      rel="preload"
+      href="./resources/chatbot/DXUnigothicStd-30.woff"
+      as="font"
+      type="font/woff"
+      crossorigin
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap"
+      rel="stylesheet"
+    />
+    <script src="./common/howler-global.js"></script>
+    <script src="./from-start/bundle.210311.js?1" charset="utf-8"></script>
+  </head>
+
+  <body>
+    <jh-full-div class="container" id="all-container">
+      <jh-full-div id="resizer">
+        <jh-opening></jh-opening>
+      </jh-full-div>
+    </jh-full-div>
+    <jh-black-screen></jh-black-screen>
+    <div class="fixed h-100 w-100 landscape">
+      <img id="landscape-image" src="./resources/가로화면 안내.jpg" class="db" />
+    </div>
+    <div class="fixed h-100 w-100 nodesktop bg-black">
+      <img
+        id="desktop-image"
+        src="./resources/웹 QR코드 페이지.jpg"
+        class="db"
+      />
+    </div>
+  </body>
+</html>

@@ -1,0 +1,72 @@
+{"frames": {
+
+"background-000229.jpg":
+{
+	"frame": {"x":1,"y":1,"w":720,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1388},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"background-000230.jpg":
+{
+	"frame": {"x":723,"y":1,"w":720,"h":1388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1388},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"button-000080.png":
+{
+	"frame": {"x":1445,"y":1,"w":236,"h":117},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":978,"w":236,"h":117},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"button-000082.png":
+{
+	"frame": {"x":1445,"y":239,"w":236,"h":111},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":984,"w":236,"h":111},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"title-000135.png":
+{
+	"frame": {"x":1445,"y":477,"w":597,"h":86},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":436,"w":597,"h":86},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"title-000136.png":
+{
+	"frame": {"x":1533,"y":477,"w":597,"h":86},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":436,"w":597,"h":86},
+	"sourceSize": {"w":720,"h":1388},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"background": ["background-000229.jpg","background-000230.jpg"],
+	"button": ["button-000080.png","button-000082.png"],
+	"title": ["title-000135.png","title-000136.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheet0.png",
+	"format": "RGBA8888",
+	"size": {"w":1620,"h":1390},
+	"scale": "1",
+	"related_multi_packs": [ "sheet1.json", "sheet2.json", "sheet3.json", "sheet4.json", "sheet5.json", "sheet6.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:585734ddecae6e31c04ed574b1de652d:426d951fdb07bbee2c34d0cd0391de16:035bc6f45468470e1268954ae37c5632$"
+}
+}
